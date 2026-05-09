@@ -17436,7 +17436,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
                 "max-w-4xl mx-auto mb-8 rounded-2xl overflow-hidden shadow-glow",
               children: E.jsx("img", {
                 src: oE,
-                alt: "Seednee Sweenee banner",
+                alt: "Seednee Sweeny banner",
                 className: "w-full",
               }),
             }),
@@ -17556,7 +17556,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
                   className:
                     "font-body text-foreground text-lg leading-relaxed mb-4",
                   children:
-                    "Seednee Sweenee is the animated alter ego of everyone's favorite Hollywood bombshell — but on the blockchain. She's here to party, pump bags, and look fabulous doing it. 💃",
+                    "Seednee Sweeny is the animated alter ego of everyone's favorite Hollywood bombshell — but on the blockchain. She's here to party, pump bags, and look fabulous doing it. 💃",
                 }),
                 E.jsx("p", {
                   className: "font-body text-muted-foreground leading-relaxed",
@@ -17738,7 +17738,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
           }),
           E.jsx("p", {
             className: "font-body text-xs text-muted-foreground mt-8",
-            children: "© 2026 Seednee Sweenee. All rights reserved (jk lol) 💋",
+            children: "© 2026 Seednee Sweeny. All rights reserved (jk lol) 💋",
           }),
         ],
       }),

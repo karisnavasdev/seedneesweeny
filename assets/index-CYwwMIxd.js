@@ -17475,7 +17475,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
               className: "flex justify-center gap-6 mt-6",
               children: [
                 E.jsx("a", {
-                  href: "https://x.com/SeedneeSweenees",
+                  href: "https://x.com/seedneesweeny",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
@@ -17726,7 +17726,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
                 children: "PumpFun",
               }),
               E.jsx("a", {
-                href: "https://x.com/SeedneeSweenees",
+                href: "https://x.com/seedneesweeny",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
